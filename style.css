@@ -1,0 +1,30 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: aquamarine;
+}
+
+form input {
+    margin: 10px;
+}
+
+button {
+    margin: 10px;
+    background-color: cornflowerblue
+}
+
+div#container {
+    margin: 0 10px;
+    padding: 10px;
+    position: relative;
+    height: 150px;
+    width: 500px;
+    border: 1px solid blue;
+}
+
+#container p{
+    margin: 0;
+    padding: 5px;
+    font-size: 1.2em;
+    background-color: #8dfdd8;
+}
